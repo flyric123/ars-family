@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ARSFamily")]
+[assembly: AssemblyTitle("ARSFamily.Website")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ARSFamily")]
+[assembly: AssemblyProduct("ARSFamily.Website")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4d490d24-c43c-41d5-b102-6112ed0a884e")]
+[assembly: Guid("3542d125-c372-41bb-b487-f59a89c8161c")]
 
 // Version information for an assembly consists of the following four values:
 //

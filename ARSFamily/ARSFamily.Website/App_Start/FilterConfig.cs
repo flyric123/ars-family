@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace ARSFamily
+namespace ARSFamily.Website
 {
     public class FilterConfig
     {
